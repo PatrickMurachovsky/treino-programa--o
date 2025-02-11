@@ -10,5 +10,7 @@ if (mediageral >= 7){
 }
 else(mediageral <=7)
     console.log ('Voce esta reprovado')
+    console.log ('a media ficou 6')
+
 
 
